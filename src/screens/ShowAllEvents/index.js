@@ -6,6 +6,7 @@ import moment from "moment";
 import { Button } from "@uprise/button";
 import {BASE_URL} from '../../config';
 
+//Local en
 import en from '../../locales/en.json';
 
 const momentTz = require("moment-timezone");

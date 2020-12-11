@@ -3,6 +3,7 @@ import BookACall from './screens/BookACall'
 import ShowAllEvents from './screens/ShowAllEvents'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+//Local en
 import en from "./locales/en.json";
 
 function App() {

@@ -10,6 +10,7 @@ import moment from "moment";
 import { Bold } from "@uprise/text";
 import { Button } from "@uprise/button";
 
+//Local en
 import en from "../../locales/en.json";
 
 const BookACall = () => {
