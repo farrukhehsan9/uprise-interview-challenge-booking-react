@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from "react";
 import moment from "moment";
 import {BASE_URL} from '../../config';
+
+//Local en
 import en from '../../locales/en.json';
 
 const momentTz = require("moment-timezone");
